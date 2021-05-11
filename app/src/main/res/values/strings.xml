@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sync">快速扫码</string>
+    <string name="syncsequence">连续扫码</string>
+    <string name="fragmentsync">Fragment扫码</string>
+    <string name="syncimg">图片识别</string>
+</resources>
